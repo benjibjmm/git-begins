@@ -3,4 +3,7 @@ git push -u origin main
 git push --all 
 git push --miror 
 git pull
+<<<<<<< HEAD
 a
+=======
+>>>>>>> 3a00c5127ac7fa740afe3d300367ba5133eba8d7
