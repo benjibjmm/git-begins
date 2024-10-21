@@ -2,3 +2,5 @@ git clone <repo>
 git push -u origin main 
 git push --all 
 git push --miror 
+git pull
+a
